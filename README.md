@@ -18,6 +18,18 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://www.backbase.com/careers/jobs
 - **Work Mode**: Hybrid
 
+###  **Nagarro**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://www.nagarro.com/en/careers
+- **Work Mode**: Hybrid / Remote
+
+###  **NetCore**
+- **Tech Stack**: Angular, TypeScript, PHP
+- **Career Site**: https://netcorecloud.com/careers-list?job_category=engineering
+- **Work Mode**: Hybrid / Remote
+
+
+
 
 ## Contributing
 
