@@ -33,6 +33,23 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://www.zoominfo.com/careers#jobs
 - **Work Mode**: On-Site
 
+###  **HashedIn By Deloitte**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://hashedin.com/careers/#explore-opportunities
+- **Work Mode**: Hybrid
+
+###  **Thomson Reuters**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://careers.thomsonreuters.com/us/en/search-results
+- **Work Mode**: On-Site/Hybrid
+
+###  **Roche**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://careers.roche.com/global/en/india-jobs
+- **Work Mode**: On-Site/Hybrid
+
+
+
 
 
 
