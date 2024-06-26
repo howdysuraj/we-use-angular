@@ -8,9 +8,15 @@ Welcome to the **We use Angular** project! This repository lists companies that 
 
 Below is a list of companies using Angular, along with their tech stacks and career sites.
 
-### 1. **Fyle**
-- **Tech Stack**: Angular, TypeScript, AngularJS
-- **Career Site**: https://careers.google.com
+###  **Fyle**
+- **Tech Stack**: Angular, TypeScript, AngularJS, Nx
+- **Career Site**: https://www.fylehq.com/company/team/join
+- **Work Mode**: Remote
+
+###  **Backbase**
+- **Tech Stack**: Angular, TypeScript, Nx
+- **Career Site**: https://www.backbase.com/careers/jobs
+- **Work Mode**: Hybrid
 
 
 ## Contributing
