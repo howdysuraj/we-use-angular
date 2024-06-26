@@ -38,7 +38,7 @@ Below is a list of companies using Angular, along with their tech stacks and car
 
 ## Contributing
 
-We welcome contributions! If you know of a company using Angular that is not listed here, feel free to submit a pull request. Please ensure to include the company's name, tech stack, and career site.
+We welcome contributions! If you know of a company using Angular that is not listed here, feel free to submit a pull request. Please ensure to include the company's name, tech stack, career site and workmode.
 
 ## License
 
