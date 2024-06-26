@@ -14,7 +14,7 @@ Below is a list of companies using Angular, along with their tech stacks and car
 
 ### 2. **Microsoft**
 - **Tech Stack**: Angular, .NET, Azure, TypeScript
-- **Career Site**: [Microsoft Careers](https://careers.microsoft.com)
+- **Career Site**: <a href="https://careers.microsoft.com" target="_blank">Microsoft Careers</a>
 
 ### 3. **IBM**
 - **Tech Stack**: Angular, Node.js, Kubernetes, Docker
