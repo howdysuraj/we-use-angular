@@ -28,6 +28,11 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://netcorecloud.com/careers-list?job_category=engineering
 - **Work Mode**: Hybrid / Remote
 
+  ###  **ZoomInfo**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://www.zoominfo.com/careers#jobs
+- **Work Mode**: On-Site
+
 
 
 
