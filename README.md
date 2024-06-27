@@ -48,6 +48,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://careers.roche.com/global/en/india-jobs
 - **Work Mode**: On-Site/Hybrid
 
+###  **SpotDraft**
+- **Tech Stack**: Angular, TypeScript, Nx
+- **Career Site**: https://www.spotdraft.com/careers
+- **Work Mode**: On-Site
 
 
 
