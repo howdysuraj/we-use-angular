@@ -53,6 +53,12 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://www.spotdraft.com/careers
 - **Work Mode**: On-Site
 
+###  **Siemens**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://jobs.siemens.com/careers
+- **Work Mode**: On-Site
+
+
 
 
 
