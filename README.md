@@ -58,6 +58,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://jobs.siemens.com/careers
 - **Work Mode**: On-Site
 
+###  **Locobuzz**
+- **Tech Stack**: Angular, TypeScript, Material, NX
+- **Career Site**: https://locobuzz.com/
+- **Work Mode**: On-Site
 
 
 
