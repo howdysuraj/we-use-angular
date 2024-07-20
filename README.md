@@ -63,6 +63,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://locobuzz.com/
 - **Work Mode**: On-Site
 
+###  **Simcorp**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://www.simcorp.com/about-us/career
+- **Work Mode**: Hybrid
 
 
 
