@@ -8,6 +8,12 @@ Welcome to the **We use Angular** project! This repository lists companies that 
 
 Below is a list of companies using Angular, along with their tech stacks and career sites.
 
+
+###  **Minoan**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: minoan.com
+- **Work Mode**: OnSite
+  
 ###  **Fyle**
 - **Tech Stack**: Angular, TypeScript, AngularJS, Nx
 - **Career Site**: https://www.fylehq.com/company/team/join
