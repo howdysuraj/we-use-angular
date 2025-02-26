@@ -74,6 +74,26 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://www.simcorp.com/about-us/career
 - **Work Mode**: Hybrid
 
+###  **CareMonitor**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://caremonitor.com.au/
+- **Work Mode**: Remote
+
+###  **Synoptek**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://careers.synoptek.com/
+- **Work Mode**: Remote
+
+###  **Ascendion**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://ascendion.com/careers/india/
+- **Work Mode**: Remote
+
+###  **Tech Holding**
+- **Tech Stack**: Angular, TypeScript
+- **Career Site**: https://techholding.co/careers
+- **Work Mode**: On-Site
+
 
 
 
